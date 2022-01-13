@@ -11,3 +11,9 @@ v0.1-beta
 
 -------------
 Report any bugs or vunerability please. Thanks!
+
+# How to add
+- https://raw.githubusercontent.com/HPD1155/pythonforjs/main/index.js
+- ```html
+  <script src="https://raw.githubusercontent.com/HPD1155/pythonforjs/main/index.js"></script>
+```
